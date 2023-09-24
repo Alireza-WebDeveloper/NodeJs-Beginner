@@ -1,0 +1,163 @@
+[
+    {
+      "course_id": 1,
+      "course_name": "آموزش برنامه‌نویسی مقدماتی",
+      "instructor": "جان اسمیت",
+      "description": "در این دوره مقدماتی، اصول برنامه‌نویسی را یاد بگیرید.",
+      "duration": "8 هفته",
+      "price": 49.99
+    },
+    {
+      "course_id": 2,
+      "course_name": "دوره آموزش توسعه وب",
+      "instructor": "سارا جانسون",
+      "description": "در این دوره گام به گام، توسعه‌دهنده توسعه وب تمام‌عیار شوید.",
+      "duration": "12 هفته",
+      "price": 199.99
+    },
+    {
+      "course_id": 3,
+      "course_name": "مفاهیم علم داده",
+      "instructor": "دیوید میلر",
+      "description": "در این دوره، به جهان علم داده و یادگیری ماشین وارد شوید.",
+      "duration": "10 هفته",
+      "price": 79.99
+    },
+    {
+      "course_id": 4,
+      "course_name": "مبانی طراحی گرافیک",
+      "instructor": "امیلی براون",
+      "description": "مهار مبانی طراحی گرافیک و ایجاد تصاویر خیره‌کننده.",
+      "duration": "6 هفته",
+      "price": 59.99
+    },
+    {
+      "course_id": 5,
+      "course_name": "مهارت‌های بازاریابی دیجیتال",
+      "instructor": "مایکل دیویس",
+      "description": "نحوه بازاریابی محصولات و خدمات آنلاین به شکل مؤثر را بیاموزید.",
+      "duration": "8 هفته",
+      "price": 69.99
+    },
+    {
+      "course_id": 6,
+      "course_name": "آشنایی با هوش مصنوعی",
+      "instructor": "لیندا وایت",
+      "description": "اصول هوش مصنوعی و کاربردهای آن را کشف کنید.",
+      "duration": "9 هفته",
+      "price": 89.99
+    },
+    {
+      "course_id": 7,
+      "course_name": "توسعه برنامه‌های موبایل",
+      "instructor": "کوین ترنر",
+      "description": "برنامه‌های موبایل برای پلتفرم‌های iOS و Android بسازید.",
+      "duration": "10 هفته",
+      "price": 119.99
+    },
+    {
+      "course_id": 8,
+      "course_name": "مالیات تجاری برای مبتدیان",
+      "instructor": "آمی لی",
+      "description": "مفاهیم اساسی مالیات و مدیریت مالی را یاد بگیرید.",
+      "duration": "7 هفته",
+      "price": 49.99
+    },
+    {
+      "course_id": 9,
+      "course_name": "مبانی عکاسی",
+      "instructor": "مارک آندرسون",
+      "description": "تصاویر خیره‌کننده را با دوربین یا گوشی همراه خود ثبت کنید.",
+      "duration": "6 هفته",
+      "price": 59.99
+    },
+    {
+      "course_id": 10,
+      "course_name": "کارآفرینی 101",
+      "instructor": "جنیفر کارتر",
+      "description": "کسب و کار خود را با راهنمایی متخصصانه شروع و رشد دهید.",
+      "duration": "8 هفته",
+      "price": 79.99
+    },
+    {
+      "course_id": 11,
+      "course_name": "دوره شماره 11",
+      "instructor": "مدرس شماره 11",
+      "description": "توضیحات دوره شماره 11",
+      "duration": "10 هفته",
+      "price": 99.99
+    },
+    {
+      "course_id": 12,
+      "course_name": "دوره شماره 12",
+      "instructor": "مدرس شماره 12",
+      "description": "توضیحات دوره شماره 12",
+      "duration": "8 هفته",
+      "price": 79.99
+    },
+    {
+      "course_id": 13,
+      "course_name": "دوره شماره 13",
+      "instructor": "مدرس شماره 13",
+      "description": "توضیحات دوره شماره 13",
+      "duration": "9 هفته",
+      "price": 89.99
+    },
+    {
+      "course_id": 14,
+      "course_name": "دوره شماره 14",
+      "instructor": "مدرس شماره 14",
+      "description": "توضیحات دوره شماره 14",
+      "duration": "7 هفته",
+      "price": 69.99
+    },
+    {
+      "course_id": 15,
+      "course_name": "دوره شماره 15",
+      "instructor": "مدرس شماره 15",
+      "description": "توضیحات دوره شماره 15",
+      "duration": "12 هفته",
+      "price": 149.99
+    },
+    {
+      "course_id": 16,
+      "course_name": "دوره شماره 16",
+      "instructor": "مدرس شماره 16",
+      "description": "توضیحات دوره شماره 16",
+      "duration": "8 هفته",
+      "price": 99.99
+    },
+    {
+      "course_id": 17,
+      "course_name": "دوره شماره 17",
+      "instructor": "مدرس شماره 17",
+      "description": "توضیحات دوره شماره 17",
+      "duration": "10 هفته",
+      "price": 119.99
+    },
+    {
+      "course_id": 18,
+      "course_name": "دوره شماره 18",
+      "instructor": "مدرس شماره 18",
+      "description": "توضیحات دوره شماره 18",
+      "duration": "6 هفته",
+      "price": 79.99
+    },
+    {
+      "course_id": 19,
+      "course_name": "دوره شماره 19",
+      "instructor": "مدرس شماره 19",
+      "description": "توضیحات دوره شماره 19",
+      "duration": "9 هفته",
+      "price": 89.99
+    },
+    {
+      "course_id": 20,
+      "course_name": "دوره شماره 20",
+      "instructor": "مدرس شماره 20",
+      "description": "توضیحات دوره شماره 20",
+      "duration": "7 هفته",
+      "price": 69.99
+    }
+  ]
+  
